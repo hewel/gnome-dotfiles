@@ -3,4 +3,4 @@ type = "archive"
 url = "https://github.com/gaboolic/rime-frost/archive/master.tar.gz"
 exact = true
 stripComponents = 1
-refreshPeriod = "168h"
+#refreshPeriod = "168h"
